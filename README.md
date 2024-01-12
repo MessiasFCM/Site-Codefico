@@ -1,6 +1,6 @@
 # Projeto Codefico
 
-Bem-vindo ao repositório de testes do projeto [Codefico](https://www.codefico.com/)!
+Bem-vindo ao repositório de testes do projeto [Codefico](https://codefico.com.br/)!
 
 A <codefico/> é uma comunidade de professores universitários e estudantes da Universidade Federal de São João del-Rei. Juntos, oferecemos um curso prático e profissionalizante, online e 100% gratuito, que visa capacitar os participantes em linguagens de programação e outros recursos para se tornarem programadores de software web iniciantes.
 
@@ -21,6 +21,6 @@ Se você faz parte do projeto Codefico e deseja contribuir para este repositóri
 
 ## Contato
 
-Para mais informações sobre a Codefico, visite nosso [site](https://www.codefico.com/).
+Para mais informações sobre a Codefico, visite nosso [site](https://codefico.com.br/).
 
 Agradecemos por fazer parte desta iniciativa! 🚀
