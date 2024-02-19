@@ -43800,8 +43800,15 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -29px 0 15px auto;
 }
 
-.u-header .u-nav-3 {
+.u-header .u-nav-1 {
+  font-weight: 500;
+  font-size: 0.875rem;
+  letter-spacing: normal;
+}
+
+.u-header .u-nav-2 {
   font-size: 1.25rem;
+  font-weight: 700;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
