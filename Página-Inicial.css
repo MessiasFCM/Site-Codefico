@@ -1115,6 +1115,12 @@
   padding: 0;
 }
 
+.u-section-4 .u-image-1 {
+  margin-bottom: 0;
+  margin-top: 49px;
+  height: 528px;
+}
+
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
     min-height: 740px;
@@ -1140,6 +1146,10 @@
   .u-section-4 .u-layout-cell-2 {
     min-height: 546px;
   }
+
+  .u-section-4 .u-image-1 {
+    height: 462px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -1162,6 +1172,10 @@
   .u-section-4 .u-layout-cell-2 {
     min-height: 418px;
   }
+
+  .u-section-4 .u-image-1 {
+    height: 354px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -1175,6 +1189,10 @@
 
   .u-section-4 .u-layout-cell-2 {
     min-height: 606px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 664px;
   }
 }
 
@@ -1200,6 +1218,10 @@
 
   .u-section-4 .u-layout-cell-2 {
     min-height: 402px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 418px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 1085px;
@@ -5707,6 +5729,10 @@
     grid-template-columns: 100%;
   }
 
+  .u-section-8 .u-text-1 {
+    margin-top: 20px;
+  }
+
   .u-section-8 .u-text-2 {
     margin-left: 0;
     margin-right: 0;
@@ -5715,6 +5741,10 @@
   .u-section-8 .u-social-icons-1 {
     width: 138px;
     min-width: 94px;
+  }
+
+  .u-section-8 .u-text-4 {
+    margin-top: 20px;
   }
 
   .u-section-8 .u-text-5 {
@@ -5727,6 +5757,10 @@
     min-width: 94px;
   }
 
+  .u-section-8 .u-text-7 {
+    margin-top: 20px;
+  }
+
   .u-section-8 .u-text-8 {
     margin-left: 0;
     margin-right: 0;
@@ -5735,6 +5769,10 @@
   .u-section-8 .u-social-icons-3 {
     width: 138px;
     min-width: 94px;
+  }
+
+  .u-section-8 .u-text-10 {
+    margin-top: 20px;
   }
 
   .u-section-8 .u-text-11 {
@@ -5747,6 +5785,10 @@
     min-width: 94px;
   }
 
+  .u-section-8 .u-text-13 {
+    margin-top: 20px;
+  }
+
   .u-section-8 .u-text-14 {
     margin-left: 0;
     margin-right: 0;
@@ -5755,6 +5797,10 @@
   .u-section-8 .u-social-icons-5 {
     width: 138px;
     min-width: 94px;
+  }
+
+  .u-section-8 .u-text-16 {
+    margin-top: 20px;
   }
 
   .u-section-8 .u-text-17 {
