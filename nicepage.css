@@ -43946,6 +43946,11 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 17px auto 12px;
 }
 
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-footer .u-line-2 {
   position: absolute;
   top: 57px;
