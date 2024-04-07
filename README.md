@@ -1,4 +1,4 @@
-# 🌐 Curso '<codefico/>' de Desenvolvimento Web
+# 🌐 Curso codefico de Desenvolvimento Web
 
 ## 📖 Apresentação
 
